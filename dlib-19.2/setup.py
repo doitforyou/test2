@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 abcd"""setup for the dlib project
+=======
+가나다라setup for the dlib project
+>>>>>>> d5918dcd4566d059d101a439c57d8369f564ae2d
  Copyright (C) 2015  Ehsan Azar (dashesy@linux.com)
  License: Boost Software License   See LICENSE.txt for the full license.
 
