@@ -1,4 +1,4 @@
-1234"""setup for the dlib project
+abcd"""setup for the dlib project
  Copyright (C) 2015  Ehsan Azar (dashesy@linux.com)
  License: Boost Software License   See LICENSE.txt for the full license.
 
