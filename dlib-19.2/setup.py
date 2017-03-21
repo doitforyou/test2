@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 abcd"""setup for the dlib project
 =======
 가나다라setup for the dlib project
